@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ahmad Faraz (aka SheviL)
 
-## Getting Started
+**B.Tech Computer Science and Engineering student at Amity University, Ranchi**
 
-First, run the development server:
+## About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Hello! I am Ahmad Faraz, a passionate and dedicated student currently pursuing my B.Tech in Computer Science and Engineering at Amity University, Ranchi. I have a strong interest in web development, artificial intelligence, and machine learning, and I enjoy creating innovative projects to enhance my skills and knowledge.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Educational Qualifications
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+-   **10th Grade:** 2021 - 91.6% - CBSE, Agrasen DAV Public School
+-   **12th Grade (Science):** 2023 - 94.4% - CBSE, Agrasen DAV Public School
+-   **Semester 1:** 9.52 SGPA - Amity University
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Skills
 
-## Learn More
+**Main Programming Language:** Python
 
-To learn more about Next.js, take a look at the following resources:
+**Other Skills:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   **Languages:** C, C++, JavaScript, TypeScript, HTML5, CSS3
+-   **Frameworks & Libraries:** React.js, Next.js, Express.js
+-   **Databases:** MongoDB, SQLite3, MySQL
+-   **Technologies:** AI, ML, Scikit-learn, MERN stack, Full-stack development (Backend and Frontend), OOP
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Experience
 
-## Deploy on Vercel
+-   **Web Development Intern** at Prasunet Company: Gained practical experience in web development.
+-   **Artificial Intelligence Intern** at Prasunet Company: Acquired valuable experience in AI.
+-   **Self-Taught Programmer:** Honed my skills through hands-on experience and a passion for continuous learning.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Certifications
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+I have acquired comprehensive knowledge and certifications through various courses, enhancing my skills in diverse areas of technology and development.
+
+## Projects
+
+I have worked on numerous mini projects to learn and apply my knowledge in frontend, backend, and graphical user interface development. You can explore my projects on my [GitHub profile](https://github.com/Shevilll).
+
+## Contact
+
+I am currently looking for internships or freelance opportunities to gain experience and learn new things about the industry. Feel free to reach out to me!
+
+**Website:** [ahmadfaraz.vercel.app](https://ahmadfaraz.vercel.app)
+
+Thank you for visiting my profile!
