@@ -56,7 +56,7 @@ const Hero = () => {
                     </p>
                     <a
                         target="_blank"
-                        href="https://drive.google.com/file/d/10vUTTOWj1od4-ES1wTKBti4P5NXeTQiv/view"
+                        href="https://drive.google.com/file/d/1yfvxSn4lMwJoueKSN586L0bhnvD5y3XB/view?usp=sharing"
                     >
                         <MagicButton
                             title="Download Résume"
